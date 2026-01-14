@@ -6,7 +6,7 @@ I'm Mokadi a software developer student
 - I'm currently learning C#, .Net framework and PHP
 
 Interests:
-- I love basketball i would like to thik of myself as the Stephen Curry of Tech
+- I love basketball i would like to think of myself as the Stephen Curry of Tech
 - Video Games
 - Artwork
 
