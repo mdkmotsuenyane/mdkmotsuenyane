@@ -1,8 +1,8 @@
 ## Hi there 🖐🏾
 
-I'm Mokadi a software developer student
+I'm Mokadi a software development student
 
-- I already worked on Projects using Java,HTML, CSS and Javacript
+- I already worked on Projects using Java,HTML, CSS and JavaScript
 - I'm currently learning C#, .Net framework and PHP
 
 Interests:
