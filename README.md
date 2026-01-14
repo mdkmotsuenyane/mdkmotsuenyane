@@ -3,7 +3,7 @@
 I'm Mokadi a software developer student
 
 - I already worked on Projects using Java,HTML, CSS and Javacript
-- I'm currently learning C#, .Net framework
+- I'm currently learning C#, .Net framework and PHP
 
 Interests:
 - I love basketball i would like to thik of myself as the Stephen Curry of Tech
