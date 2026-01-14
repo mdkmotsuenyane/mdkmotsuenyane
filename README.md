@@ -6,7 +6,7 @@ I'm Mokadi a software developer student
 - I'm currently learning C#,PHP
 
 Interests:
-I love basketball i would like to thik of myself as the Stephen Curry of Tech
+- I love basketball i would like to thik of myself as the Stephen Curry of Tech
 
 <!--
 **mdkmotsuenyane/mdkmotsuenyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
