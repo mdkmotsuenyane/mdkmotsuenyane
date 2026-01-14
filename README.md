@@ -3,10 +3,14 @@
 I'm Mokadi a software developer student
 
 - I already worked on Projects using Java,HTML, CSS and Javacript
-- I'm currently learning C#,PHP
+- I'm currently learning C#, .Net framework
 
 Interests:
 - I love basketball i would like to thik of myself as the Stephen Curry of Tech
+- Video Games
+- Artwork
+
+  
 
 <!--
 **mdkmotsuenyane/mdkmotsuenyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
