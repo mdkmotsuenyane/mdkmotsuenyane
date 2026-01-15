@@ -1,6 +1,6 @@
 ## Hi there 🖐🏾
 
-I'm Mokadi a software development student in South Africa 🇿🇦 
+I'm Mokadi a software development student from South Africa 🇿🇦 
 
 - I already worked on Projects using Java,HTML, CSS and JavaScript💻
 - I'm currently learning C#, .Net framework and PHP 💻
