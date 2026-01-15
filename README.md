@@ -1,12 +1,12 @@
 ## Hi there 🖐🏾
 
-I'm Mokadi a software development student 😉
+I'm Mokadi a software development student in South Africa 🇿🇦 
 
-- I already worked on Projects using Java,HTML, CSS and JavaScript
-- I'm currently learning C#, .Net framework and PHP
+- I already worked on Projects using Java,HTML, CSS and JavaScript💻
+- I'm currently learning C#, .Net framework and PHP 💻
 
 Interests:
-- I love basketball i would like to think of myself as the Stephen Curry of Tech 🏀
+- I love basketball i would like to think of myself as the Kawhi Leonard of Tech 🏀
 - Video Games 🎮
 - Artwork 📸
 - Music 🔊
