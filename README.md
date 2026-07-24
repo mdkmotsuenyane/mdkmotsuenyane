@@ -102,16 +102,6 @@ Current areas of focus include:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdkmotsuenyane&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
