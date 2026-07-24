@@ -2,16 +2,14 @@
 
 💻 Software Development Student from South Africa 🇿🇦
 
-I'm passionate about building software that solves real-world problems through clean, scalable, and user-friendly applications. I'm constantly expanding my skills by building projects and learning modern development tools.
+I'm passionate about building software that solves real-world problems through clean, scalable, and user-friendly applications. I'm a **quick learner** who enjoys taking on new challenges and continuously improving my skills.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages & Technologies
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,php,mysql,dotnet,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,mysql,dotnet,docker,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -19,7 +17,7 @@ I'm passionate about building software that solves real-world problems through c
 ## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,dotnet,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,docker,dotnet,mysql" alt="Currently Learning" />
 </p>
 
 - 🐍 Python
@@ -29,31 +27,29 @@ I'm passionate about building software that solves real-world problems through c
 
 ---
 
-## 🎯 Interests
+## 👨‍💻 About Me
 
-🏀 Basketball
-
-🎮 Gaming
-
-📸 Photography
-
-🎵 Music
+- 🚀 Quick learner who enjoys mastering new technologies.
+- 🏀 Huge fan of **Giannis Antetokounmpo**.
+- 🤝 I enjoy socializing and collaborating with others.
+- 🎬 I like watching Netflix in my free time.
+- 💡 Passionate about solving real-world problems with technology.
+- 📚 Always learning and building something new.
 
 ---
 
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mokadi-motsuenyane-a5a0b6387">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/mokadi-motsuenyane-a5a0b6387">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 
-<a href="https://instagram.com/man_skadi">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <a href="https://instagram.com/man_skadi">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
 </p>
 
-**Instagram:** @man_skadi
 
 ---
 
@@ -67,4 +63,4 @@ I'm passionate about building software that solves real-world problems through c
 
 ---
 
-> "Always learning. Always building. Always improving."
+> *"Always learning. Always building. Always improving."*
