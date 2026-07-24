@@ -20,23 +20,16 @@ I'm passionate about building software that solves real-world problems. I'm cons
 
 ---
 
-## 📚 Projects
-
-- 🔐 SecureIQ Africa
-- 🚗 Vehicle Rental System
-- 🏗️ J & B Construction Website
-- 🦷 Motsuenyane-Muhali Dental Website
-- 🌐 ConnectCircle
-
----
-
+  
 ## 🌱 Currently Learning
 
 - C#
 - .NET Framework
 - PHP
+- Python
 - MySQL
-- Software Engineering Best Practices
+- Docker
+--ADO.ASP
 
 ---
 
@@ -58,24 +51,11 @@ I'm passionate about building software that solves real-world problems. I'm cons
 
 ---
 
-## 📊 GitHub Stats
-
-![Mokadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdkmotsuenyane&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkmotsuenyane&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mdkmotsuenyane&theme=tokyonight)
 
 ---
 
-⭐ Thanks for visiting my profile!- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-I love basketball i would like to thik of myself as the Stephen Curry of Tech
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐ Thanks for visiting my profile 🙌🏾🔥
 -->
