@@ -88,14 +88,6 @@ Current areas of focus include:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdkmotsuenyane&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkmotsuenyane&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=mdkmotsuenyane&theme=tokyonight"/>
 
 </p>
