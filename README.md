@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Mokadi Motsuenyane
+# Hi there 👋🏾, I'm Mokadi
 
 <div align="center">
 
